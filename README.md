@@ -1,0 +1,2 @@
+# QuickRepository
+Example from class
